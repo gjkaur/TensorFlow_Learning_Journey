@@ -13,7 +13,7 @@ If you're new to TensorFlow or want to embark on this journey with me, start wit
 - [Installation Guide](https://www.tensorflow.org/install): Detailed instructions to set up TensorFlow on your machine.
 - [Beginner-Friendly Tutorials](https://www.tensorflow.org/tutorials): Simple yet insightful code examples to kickstart your TensorFlow experience.
 
-## TensorFlow Guide
+## [TensorFlow Guide](https://www.tensorflow.org/guide)
 
 1. [TensorFlow Basics](https://www.tensorflow.org/guide/basics)
 2. [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
