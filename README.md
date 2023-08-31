@@ -10,8 +10,8 @@ Welcome to my TensorFlow Learning Journey repository! This is where I've meticul
 
 If you're new to TensorFlow or want to embark on this journey with me, start with the basics. This repository includes:
 
-- **Installation Guide** [Installation Guide](https://www.tensorflow.org/install): Detailed instructions to set up TensorFlow on your machine.
-- **Beginner-Friendly Tutorials**: Simple yet insightful code examples to kickstart your TensorFlow experience.
+- [Installation Guide](https://www.tensorflow.org/install): Detailed instructions to set up TensorFlow on your machine.
+- [Beginner-Friendly Tutorials](https://www.tensorflow.org/tutorials): Simple yet insightful code examples to kickstart your TensorFlow experience.
 
 ## :books: Learning Modules
 
