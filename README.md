@@ -6,6 +6,7 @@ Welcome to my TensorFlow Learning Journey repository! This is where I've documen
 - [Getting Started](#getting-started)
 - [Learning Modules](#learning-modules)
 - [Projects](#projects)
+- [Day-wise Progress](#day-wise-progress)
 - [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,6 +37,18 @@ Check out the projects I've worked on during my journey. These projects reflect 
 3. ...
 
 Feel free to use these projects as inspiration for your own!
+
+## Day-wise Progress
+
+Here's a summary of my day-wise progress through this TensorFlow learning journey:
+
+| Day   | Topic Covered         | Achievements                    |
+|-------|-----------------------|---------------------------------|
+| Day 1 | Introduction to ML    | Installed TensorFlow            |
+| Day 2 | Basics of Tensors     | Implemented a simple model     |
+| Day 3 | Neural Networks       | Built and trained a CNN        |
+| ...   | ...                   | ...                             |
+| Day 30| Capstone Project      | Completed the final project    |
 
 ## Resources
 
