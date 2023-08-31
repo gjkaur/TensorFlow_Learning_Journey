@@ -40,15 +40,15 @@ Feel free to use these projects as inspiration for your own!
 
 ## Day-wise Progress
 
-Here's a summary of my day-wise progress through this TensorFlow learning journey:
+Here's a detailed summary of my day-wise progress through this TensorFlow learning journey:
 
-| Day   | Topic Covered         | Achievements                    |
-|-------|-----------------------|---------------------------------|
-| Day 1 | Introduction to ML    | Installed TensorFlow            |
-| Day 2 | Basics of Tensors     | Implemented a simple model     |
-| Day 3 | Neural Networks       | Built and trained a CNN        |
-| ...   | ...                   | ...                             |
-| Day 30| Capstone Project      | Completed the final project    |
+| Day   | Topics Covered             | Resource                              | My Insights                   | Medium Post Link             | LinkedIn Post Link           | Code Link                   |
+|-------|---------------------------|---------------------------------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
+| Day 1 | Introduction to ML        | [Resource 1](link-to-resource-1)     | Insight 1 for Day 1           | [Medium Link 1](medium-link) | [LinkedIn Link 1](linkedin-link) | [Code Link 1](link-to-code-1) |
+| Day 2 | Basics of Tensors         | [Resource 2](link-to-resource-2)     | Insight 2 for Day 2           | [Medium Link 2](medium-link) | [LinkedIn Link 2](linkedin-link) | [Code Link 2](link-to-code-2) |
+| Day 3 | Neural Networks           | [Resource 3](link-to-resource-3)     | Insight 3 for Day 3           | [Medium Link 3](medium-link) | [LinkedIn Link 3](linkedin-link) | [Code Link 3](link-to-code-3) |
+| ...   | ...                       | ...                                   | ...                           | ...                         | ...                         | ...                         |
+| Day 30| Capstone Project          | [Resource 30](link-to-resource-30)   | Insight 30 for Capstone       | [Medium Link 30](medium-link) | [LinkedIn Link 30](linkedin-link) | [Code Link 30](link-to-code-30) |
 
 ## Resources
 
