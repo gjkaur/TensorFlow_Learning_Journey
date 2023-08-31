@@ -1,6 +1,3 @@
-# TensorFlow_Learning_Journey
-Description: A comprehensive repository documenting my journey from TensorFlow beginner to pro, featuring hands-on code, projects, and valuable resources. Explore the world of deep learning and AI through my learning path, and embark on your own TensorFlow adventure.
-
 # TensorFlow Learning Journey 🚀🤖📚
 
 Welcome to my TensorFlow Learning Journey repository! This is where I've documented my path from a TensorFlow beginner to a pro. I've gathered valuable resources, hands-on code, and projects to help you navigate the exciting world of deep learning and artificial intelligence using TensorFlow.
