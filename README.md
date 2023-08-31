@@ -15,7 +15,9 @@ If you're new to TensorFlow or want to embark on this journey with me, start wit
 
 ## [TensorFlow Guide](https://www.tensorflow.org/guide)
 
-1. [TensorFlow Basics](https://www.tensorflow.org/guide/basics)
+### TensorFlow basics
+
+1. [Overview](https://www.tensorflow.org/guide/basics)
 2. [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
 3. [Introduction to Variables](https://www.tensorflow.org/guide/variable)
 
