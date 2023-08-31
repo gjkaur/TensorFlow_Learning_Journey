@@ -21,6 +21,37 @@ If you're new to TensorFlow or want to embark on this journey with me, start wit
 2. [Introduction to Tensors](https://www.tensorflow.org/guide/tensor)
 3. [Introduction to Variables](https://www.tensorflow.org/guide/variable)
 
+### Keras
+
+### Build with Core
+
+### TensorFlow in depth
+
+### Customization
+
+### Data input pipelines
+
+### Import and export
+
+### Accelerators
+
+### Performance
+
+### Model Garden
+1. [Model Garden overview](https://www.tensorflow.org/tfmodels)
+2. [Training with Orbit](https://www.tensorflow.org/tfmodels/orbit)
+3. [Introduction to the TensorFlow Models NLP library](https://www.tensorflow.org/tfmodels/nlp)
+4. [Image classification with Model Garden](https://www.tensorflow.org/tfmodels/vision/image_classification)
+5. [Object detection with Model Garden](https://www.tensorflow.org/tfmodels/vision/object_detection)
+6. [Semantic Segmentation with Model Garden](https://www.tensorflow.org/tfmodels/vision/semantic_segmentation)
+7. [Instance Segmentation with Model Garden](https://www.tensorflow.org/tfmodels/vision/instance_segmentation)
+
+### Estimators
+1. [Estimators](https://www.tensorflow.org/guide/estimator)
+
+### Appendix
+
+
 ## :books: Learning Modules
 
 Explore these comprehensive learning modules that cover various aspects of TensorFlow:
