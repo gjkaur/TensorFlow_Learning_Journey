@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="your-logo.png" alt="TensorFlow Learning Journey" width="300"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png">
 </div>
 
 # TensorFlow Learning Journey 🚀🤖📚
